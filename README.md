@@ -26,4 +26,4 @@ If you have questions, comments, just want to reach out and say hi... feel free 
 ### WAIT!  You're an engineer!  Why aren't there more numbers!?
 Hah!  Woops!  That's a great point.  That would have been embarassing to forget!  Here ya go!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aldosac)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aldosac)](https://github.com/anuraghazra/github-readme-stats?count_private=true)
