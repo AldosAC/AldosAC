@@ -6,7 +6,7 @@ Who am I?  Great question!
 I'm a full stack software engineer that primarily works with React, Nodejs, Express, and handful of SQL and NoSQL databases depending on the project's needs.  Scroll down a little and you can find some of the apps I've built, including... 
 - [Pear](https://github.com/Pear-Pairing/pear), which simplifies pairing people up for activites!
 - [Up Next](https://github.com/AldosAC/Up-Next), which provides a simple solution to the age old problem of determining who goes next!
-- [SB Status Checker](https://github.com/AldosAC/SB-Status-Checker), a simple one-page app designed to help monitor the server status for the Shadowbane community and notify members of any changes.
+- [SB Status Checker](https://github.com/AldosAC/SB-Status-Checker), a simple one-page app designed to help monitor the server status for the Shadowbane community.
 - [Fat Cat](https://github.com/AldosAC/fat-cat), an Alexa skill that allows you to intuitively track activities like feeding and medicating your pets.
 
 ### Well that's neat, but what stands out about these apps?
