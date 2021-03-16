@@ -4,11 +4,18 @@ Welcome to my GitHub!  Below, you'll find the work I've contributed to so far.
 Who am I?  Great question!
 
 I'm a full stack software engineer that primarily works with React, Nodejs, Express, and handful of SQL and NoSQL databases depending on the project's needs.  Scroll down a little and you can find some of the apps I've built, including... 
-- [Fat Cat](https://github.com/AldosAC/fat-cat), an Alexa skill that allows you to intuitively track activities like feeding and medicating your pets.
+- [Pear](https://github.com/Pear-Pairing/pear), which simplifies pairing people up for activites!
 - [Up Next](https://github.com/AldosAC/Up-Next), which provides a simple solution to the age old problem of determining who goes next!
+- [SB Status Checker](https://github.com/AldosAC/SB-Status-Checker), a simple one-page app designed to help monitor the server status for the Shadowbane community and notify members of any changes.
+- [Fat Cat](https://github.com/AldosAC/fat-cat), an Alexa skill that allows you to intuitively track activities like feeding and medicating your pets.
+
+### Well that's neat, but what stands out about these apps?
+Serverless architecture!  Both Pear and Up Next were designed with a serverless back end, utilizing AWS Lambda and API Gateway.  They also utilize AWS Amplify for hosting the static front end files.  While tackling serverless architecture was fun on its own merrits, it also provided tangible benefits for both apps.  Both apps were designed, at least in their initial state, with the intention of being apps I could provide for my team at Hack Reactor free of charge.  By utilizing a serverless back end ensure that my operating costs were as low as possible while traffic is low (let's be honest, these are small projects, traffic is pretty low!) yet when the world finally catches on to how amazing these apps are, they can quickly scale with the sudden spike in popularity!
+
+In addition to the financial and scalability benefits, deploying through Amplify was extremely quick.  Pear, for example, went from conception to full deployment in less than three days.  All from a team of 3 people that had never worked together before.
 
 ### Sounds cool right?  But what's next?
-What would life be without growth!  I'm having a great time working on Fat Cat, so diving deeper into the Alexa Skill Kit / SDK are high on my priority list.  In addition to that, I'm experimenting with serverless architecture, which I think is really interesting.
+Server side rendering!  It's been on my list of skills to tackle for a couple of months now, and I've finally got some projects that would benefit from it.  Not just SSR, but SSR on a serverless webapp.  My current plan is to implement SSR on Up Next, as it's a fairly simple app.  That should provide a great environment to learn in.  Once I've got it working there, I'll implement SSR in Pear.
 
 ### Want to reach out?
 <!-- LinkedIn Contact -->
